@@ -25,6 +25,9 @@ const NavBar = () => {
                         <li className="nav-item">
                             <a className="nav-link active" aria-disabled="true">Contact</a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link active" aria-disabled="true">Log Out</a>
+                        </li>
                     </ul>
                 </div>
             </div>
