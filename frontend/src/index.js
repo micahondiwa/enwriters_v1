@@ -15,7 +15,6 @@ import ContactPage from './components/Contact';
 import GetStartedPage from './components/GetStarted';
 import LoginPage from './components/Login';
 import LogoutPage from './components/Logout';
-import SignupPage from './components/SignUp';
 
 const App = () => {
 
